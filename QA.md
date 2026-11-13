@@ -108,13 +108,17 @@ sudo whoami
 
 
 
+##### openshift-4.22.X       -1.99  - bast
+
+
+
 **openshift-install-linux**
 
 https://mirror.openshift.com/pub/openshift-v4/x86\_64/clients/ocp/stable/openshift-install-linux.tar.gz
 
 
 
-
+&#x20;     
 
 **openshift-client-linux**
 
@@ -134,9 +138,21 @@ https://mirror.openshift.com/pub/openshift-v4/x86\_64/dependencies/rhcos/latest/
 
 
 
+https://github.com/cubensquare/ocp4-metal-install.git
 
 
 
+ens34- 192.16.1.99
+
+ens35- 192.16.22.95     - > 192.16.22.1  - > intenal ip / no internet zone within the port 
+
+
+
+boot	00:0c:29:49:af:b3
+
+contpl   00:0c:29:a2:75:1e
+
+work     00:0c:29:34:a2:04
 
 
 
