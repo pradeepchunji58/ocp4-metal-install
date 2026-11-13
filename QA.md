@@ -126,3 +126,17 @@ https://mirror.openshift.com/pub/openshift-v4/x86\_64/clients/ocp/stable/openshi
 
 
 
+**rhcos-4.22.21-x86\_64-metal**
+
+
+
+https://mirror.openshift.com/pub/openshift-v4/x86\_64/dependencies/rhcos/latest/rhcos-4.22.21-x86\_64-metal.x86\_64.raw.gz
+
+
+
+
+
+
+
+
+
